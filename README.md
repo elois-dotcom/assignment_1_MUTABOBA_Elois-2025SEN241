@@ -8,10 +8,12 @@ Populate the tables with at least 5 customers, 8 products across at least 3 cate
 
 ## Our second task is:
 
-### 1. List every order with the customer's name, city, and order date (INNER JOIN: orders + customers).
+1. List every order with the customer's name, city, and order date (INNER JOIN: orders + customers).
 
-### 2. List every order item with product name, category, price, and quantity (JOIN: order_items + products).
+2. List every order item with product name, category, price, and quantity (JOIN: order_items + products).
 
-### 3. List all customers and their orders where they exist, including customers with no orders (LEFT JOIN: customers + orders).
+3. List all customers and their orders where they exist, including customers with no orders (LEFT JOIN: customers + orders).
 
-## The tech stack being used: Oracle's Database SQL Developer extension in Vscode, and Docker image of Oracle XE. Reason for using the approach: I am currently using Kali linux i can't access a .deb file for Oracle XE (Doesn't exist only .rpm).
+## The tech stack being used: 
+
+Oracle's Database SQL Developer extension in Vscode, and Docker image of Oracle XE. Reason for using the approach: I am currently using Kali linux i can't access a .deb file for Oracle XE (Doesn't exist only .rpm).
