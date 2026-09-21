@@ -14,6 +14,19 @@ Populate the tables with at least 5 customers, 8 products across at least 3 cate
 
 3. List all customers and their orders where they exist, including customers with no orders (LEFT JOIN: customers + orders).
 
+4. Calculate each customer's total spend (quantity x price) and return customers above average spend. Use a CTE to compute customer totals first. (CTE QUERY).
+
+5. Rank customers by total amount spent, highest first.
+
+6. Number each customer's orders in the order placed.
+
+7. Show a running total of revenue over time, ordered by order date.
+
+8. For each customer with more than one order, show days between the current and previous order.
+
+9. For each customer with more than one order, show days between the current and previous order.
+
+
 ## The tech stack being used: 
 
 Oracle's Database SQL Developer extension in Vscode, and Docker image of Oracle XE. Reason for using the approach: I am currently using Kali linux i can't access a .deb file for Oracle XE (Doesn't exist only .rpm).
