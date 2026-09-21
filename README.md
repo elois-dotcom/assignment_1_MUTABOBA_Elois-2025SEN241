@@ -2,7 +2,9 @@
 
 Hello, welcome to my first assignment. The case study we have today is SunriseSupermarket, Sunrise Supermarket sells products to customers, who place orders containing one or more items. Management wants to understand who their customers are, what they buy, and how sales are trending over time. 
 
-### Our first task in this project is to: Populate the tables with at least 5 customers, 8 products across at least 3 categories, 15 orders, and 25 order items across multiple dates. 
+## Our first task in this project is to: 
+
+Populate the tables with at least 5 customers, 8 products across at least 3 categories, 15 orders, and 25 order items across multiple dates. 
 
 ## Our second task is:
 
